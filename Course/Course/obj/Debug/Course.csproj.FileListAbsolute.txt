@@ -1,0 +1,75 @@
+C:\Users\Admin\source\repos\Course\Course\bin\Debug\Course.exe.config
+C:\Users\Admin\source\repos\Course\Course\bin\Debug\Course.exe
+C:\Users\Admin\source\repos\Course\Course\bin\Debug\Course.pdb
+C:\Users\Admin\source\repos\Course\Course\obj\Debug\Course.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Course\Course\obj\Debug\Course.Form1.resources
+C:\Users\Admin\source\repos\Course\Course\obj\Debug\Course.Properties.Resources.resources
+C:\Users\Admin\source\repos\Course\Course\obj\Debug\Course.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Course\Course\obj\Debug\Course.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Course\Course\obj\Debug\Course.exe
+C:\Users\Admin\source\repos\Course\Course\obj\Debug\Course.pdb
+C:\Users\Admin\source\repos\Course\Course\obj\Debug\Course.FormTours.resources
+C:\Users\Admin\source\repos\Course\Course\obj\Debug\Course.AddForm.resources
+C:\Users\Admin\source\repos\Course\Course\obj\Debug\Course.EditForm.resources
+C:\Users\Admin\source\repos\Course\Course\obj\Debug\Course.AddTourForm.resources
+C:\Users\Admin\source\repos\Course\Course\obj\Debug\Course.EditTourForm.resources
+C:\Users\Admin\Desktop\Course\Course\bin\Debug\Course.exe.config
+C:\Users\Admin\Desktop\Course\Course\bin\Debug\Course.exe
+C:\Users\Admin\Desktop\Course\Course\bin\Debug\Course.pdb
+C:\Users\Admin\Desktop\Course\Course\obj\Debug\Course.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Course\Course\obj\Debug\Course.AddForm.resources
+C:\Users\Admin\Desktop\Course\Course\obj\Debug\Course.AddTourForm.resources
+C:\Users\Admin\Desktop\Course\Course\obj\Debug\Course.EditForm.resources
+C:\Users\Admin\Desktop\Course\Course\obj\Debug\Course.EditTourForm.resources
+C:\Users\Admin\Desktop\Course\Course\obj\Debug\Course.Form1.resources
+C:\Users\Admin\Desktop\Course\Course\obj\Debug\Course.FormTours.resources
+C:\Users\Admin\Desktop\Course\Course\obj\Debug\Course.Properties.Resources.resources
+C:\Users\Admin\Desktop\Course\Course\obj\Debug\Course.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Course\Course\obj\Debug\Course.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Course\Course\obj\Debug\Course.exe
+C:\Users\Admin\Desktop\Course\Course\obj\Debug\Course.pdb
+C:\Users\admin\Desktop\ДАШЕГ\4 семестр\Курсовая\Course\Course\Course\bin\Debug\Course.exe.config
+C:\Users\admin\Desktop\ДАШЕГ\4 семестр\Курсовая\Course\Course\Course\bin\Debug\Course.exe
+C:\Users\admin\Desktop\ДАШЕГ\4 семестр\Курсовая\Course\Course\Course\bin\Debug\Course.pdb
+C:\Users\admin\Desktop\ДАШЕГ\4 семестр\Курсовая\Course\Course\Course\obj\Debug\Course.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\ДАШЕГ\4 семестр\Курсовая\Course\Course\Course\obj\Debug\Course.AddForm.resources
+C:\Users\admin\Desktop\ДАШЕГ\4 семестр\Курсовая\Course\Course\Course\obj\Debug\Course.AddTourForm.resources
+C:\Users\admin\Desktop\ДАШЕГ\4 семестр\Курсовая\Course\Course\Course\obj\Debug\Course.EditForm.resources
+C:\Users\admin\Desktop\ДАШЕГ\4 семестр\Курсовая\Course\Course\Course\obj\Debug\Course.EditTourForm.resources
+C:\Users\admin\Desktop\ДАШЕГ\4 семестр\Курсовая\Course\Course\Course\obj\Debug\Course.Form1.resources
+C:\Users\admin\Desktop\ДАШЕГ\4 семестр\Курсовая\Course\Course\Course\obj\Debug\Course.FormTours.resources
+C:\Users\admin\Desktop\ДАШЕГ\4 семестр\Курсовая\Course\Course\Course\obj\Debug\Course.Properties.Resources.resources
+C:\Users\admin\Desktop\ДАШЕГ\4 семестр\Курсовая\Course\Course\Course\obj\Debug\Course.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\ДАШЕГ\4 семестр\Курсовая\Course\Course\Course\obj\Debug\Course.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ДАШЕГ\4 семестр\Курсовая\Course\Course\Course\obj\Debug\Course.exe
+C:\Users\admin\Desktop\ДАШЕГ\4 семестр\Курсовая\Course\Course\Course\obj\Debug\Course.pdb
+C:\Users\admin\Desktop\ДАШЕГ\4 семестр\Курсовая\Защита\Course\Course\Course\bin\Debug\Course.exe.config
+C:\Users\admin\Desktop\ДАШЕГ\4 семестр\Курсовая\Защита\Course\Course\Course\bin\Debug\Course.exe
+C:\Users\admin\Desktop\ДАШЕГ\4 семестр\Курсовая\Защита\Course\Course\Course\bin\Debug\Course.pdb
+C:\Users\admin\Desktop\ДАШЕГ\4 семестр\Курсовая\Защита\Course\Course\Course\obj\Debug\Course.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\ДАШЕГ\4 семестр\Курсовая\Защита\Course\Course\Course\obj\Debug\Course.AddForm.resources
+C:\Users\admin\Desktop\ДАШЕГ\4 семестр\Курсовая\Защита\Course\Course\Course\obj\Debug\Course.AddTourForm.resources
+C:\Users\admin\Desktop\ДАШЕГ\4 семестр\Курсовая\Защита\Course\Course\Course\obj\Debug\Course.EditForm.resources
+C:\Users\admin\Desktop\ДАШЕГ\4 семестр\Курсовая\Защита\Course\Course\Course\obj\Debug\Course.EditTourForm.resources
+C:\Users\admin\Desktop\ДАШЕГ\4 семестр\Курсовая\Защита\Course\Course\Course\obj\Debug\Course.Form1.resources
+C:\Users\admin\Desktop\ДАШЕГ\4 семестр\Курсовая\Защита\Course\Course\Course\obj\Debug\Course.FormTours.resources
+C:\Users\admin\Desktop\ДАШЕГ\4 семестр\Курсовая\Защита\Course\Course\Course\obj\Debug\Course.Properties.Resources.resources
+C:\Users\admin\Desktop\ДАШЕГ\4 семестр\Курсовая\Защита\Course\Course\Course\obj\Debug\Course.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\ДАШЕГ\4 семестр\Курсовая\Защита\Course\Course\Course\obj\Debug\Course.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ДАШЕГ\4 семестр\Курсовая\Защита\Course\Course\Course\obj\Debug\Course.exe
+C:\Users\admin\Desktop\ДАШЕГ\4 семестр\Курсовая\Защита\Course\Course\Course\obj\Debug\Course.pdb
+C:\Users\Dariya\Desktop\Учёба\4 семестр\Курсовая\Защита\Course\Course\Course\bin\Debug\Course.exe.config
+C:\Users\Dariya\Desktop\Учёба\4 семестр\Курсовая\Защита\Course\Course\Course\bin\Debug\Course.exe
+C:\Users\Dariya\Desktop\Учёба\4 семестр\Курсовая\Защита\Course\Course\Course\bin\Debug\Course.pdb
+C:\Users\Dariya\Desktop\Учёба\4 семестр\Курсовая\Защита\Course\Course\Course\obj\Debug\Course.csprojAssemblyReference.cache
+C:\Users\Dariya\Desktop\Учёба\4 семестр\Курсовая\Защита\Course\Course\Course\obj\Debug\Course.AddForm.resources
+C:\Users\Dariya\Desktop\Учёба\4 семестр\Курсовая\Защита\Course\Course\Course\obj\Debug\Course.AddTourForm.resources
+C:\Users\Dariya\Desktop\Учёба\4 семестр\Курсовая\Защита\Course\Course\Course\obj\Debug\Course.EditForm.resources
+C:\Users\Dariya\Desktop\Учёба\4 семестр\Курсовая\Защита\Course\Course\Course\obj\Debug\Course.EditTourForm.resources
+C:\Users\Dariya\Desktop\Учёба\4 семестр\Курсовая\Защита\Course\Course\Course\obj\Debug\Course.Form1.resources
+C:\Users\Dariya\Desktop\Учёба\4 семестр\Курсовая\Защита\Course\Course\Course\obj\Debug\Course.FormTours.resources
+C:\Users\Dariya\Desktop\Учёба\4 семестр\Курсовая\Защита\Course\Course\Course\obj\Debug\Course.Properties.Resources.resources
+C:\Users\Dariya\Desktop\Учёба\4 семестр\Курсовая\Защита\Course\Course\Course\obj\Debug\Course.csproj.GenerateResource.cache
+C:\Users\Dariya\Desktop\Учёба\4 семестр\Курсовая\Защита\Course\Course\Course\obj\Debug\Course.csproj.CoreCompileInputs.cache
+C:\Users\Dariya\Desktop\Учёба\4 семестр\Курсовая\Защита\Course\Course\Course\obj\Debug\Course.exe
+C:\Users\Dariya\Desktop\Учёба\4 семестр\Курсовая\Защита\Course\Course\Course\obj\Debug\Course.pdb
